@@ -1,4 +1,4 @@
-module github.com/osmosis-labs/osmosis/x/epochs
+module github.com/byterui/osmosis/x/epochs
 
 go 1.19
 
